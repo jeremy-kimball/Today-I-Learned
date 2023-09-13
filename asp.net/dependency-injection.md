@@ -1,4 +1,4 @@
-## Dependency Injection in an [ASP.NET](https://github.com/dotnet/aspnetcore) Core App
+## Dependency Injection in an [ASP.NET](https://github.com/dotnet/aspnetcore) Core App [^1][^2][^3][^5]
 
 Dependency Injection is a software design pattern intended to achieve Inversion of Control (IoC). Dependency can cause issues like difficulty refactoring and trouble testing. Instead of an object creating objects it needs manually inside its class, the dependency object is created outside and passed in. This leads to a separation of concerns as the dependent class doesn’t need to concern itself with how a dependency is created, just how it uses it.
 
