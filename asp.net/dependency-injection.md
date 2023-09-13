@@ -4,7 +4,7 @@ Dependency Injection is a software design pattern intended to achieve Inversion 
 
 # Advantages
 * Cleaner Code
-  * Dependency injection helps with this by decoupling the dependent from the dependency. Being able to follow a pattern of dependent to dependency through injections provides an easy way to follow exactly the classes function.
+  * Dependency injection helps with this by decoupling the dependent from the dependency. Being able to follow a pattern of dependent to dependency through injections provides an easy way to follow exactly the classes hierarchy.
 * Testing
   * Dependencies are hard to mock for unit testing. By Injecting interfaces of dependencies you can provide a “test double” for an injected interface.
 * Maintainability
