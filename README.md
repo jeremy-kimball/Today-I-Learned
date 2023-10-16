@@ -2,12 +2,18 @@
 
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. These are things that don't really warrant a full blog post.
 
-_1 TIL and counting..._
+_2 TIL and counting..._
 
 ---
 ### ASP.NET
 - [Dependency Injection in ASP.NET Core](asp.net/dependency-injection.md)
-- [Dependency Inversion](dependency_inversion.md)
+---
+### SOLID Principles
+- S
+- O
+- L
+- I
+- D - [Dependency Inversion](dependency_inversion.md)
 ---
 ## Inspiration
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
