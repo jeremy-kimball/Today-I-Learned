@@ -13,7 +13,7 @@ _2 TIL and counting..._
 - O
 - L
 - I
-- D - [Dependency Inversion](dependency_inversion.md)
+- D - [Dependency Inversion](design/dependency_inversion.md)
 ---
 ## Inspiration
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
