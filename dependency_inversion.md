@@ -1,0 +1,1 @@
+Dependency Inversion Principle (DIP) is the final principle of SOLID, which are the essential building blocks of object-oriented programming and design. The Dependency Inversion Principle promotes the decoupling of high-level modules from low-level modules by introducing abstractions.
