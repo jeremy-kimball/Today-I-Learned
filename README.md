@@ -7,7 +7,7 @@ _1 TIL and counting..._
 ---
 ### ASP.NET
 - [Dependency Injection in ASP.NET Core](asp.net/dependency-injection.md)
-
+- [Dependency Inversion](dependency_inversion.md)
 ---
 ## Inspiration
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
