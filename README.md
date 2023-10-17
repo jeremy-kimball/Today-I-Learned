@@ -10,12 +10,12 @@ _2 TIL and counting..._
 ---
 ### Design
 
-#### Solid
-- S
-- O
-- L
-- I
-- D - [Dependency Inversion](design/dependency_inversion.md)
+- Solid
+  - S
+  - O
+  - L
+  - I
+  - [Dependency Inversion](design/dependency_inversion.md)
 ---
 ## Inspiration
 Inspired by [jbranchaud/til](https://github.com/jbranchaud/til).
