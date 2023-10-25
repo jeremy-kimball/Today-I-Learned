@@ -7,6 +7,8 @@ _2 TIL and counting..._
 ---
 ### ASP.NET
 - [Dependency Injection in ASP.NET Core](asp.net/dependency-injection.md)
+### Identity Framework
+- [Authorization with Identity Framework](identity_framework/authorization.md)
 ---
 ### Design
 
