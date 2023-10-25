@@ -1,5 +1,7 @@
 ## Authorization (Roles/Claims) With Identity Framework
-Roles can be added through SQL Inserts to the table "AspNetRoles" with an Id and Name.
+Roles can be added through SQL Inserts to the table "AspNetRoles" with an Id and Name. As roles are fairly static it is commonplace to adjust users roles inside of the database directly. We will start with a template database structure provided by Identity framework. It looks like this minus the messages table in the bottom right of the screenshot, as that is part of what we will be using to test users access. 
+![image](https://github.com/jeremy-kimball/Today-I-Learned/assets/130601077/d19ad8df-8a30-45d7-9bc3-de0d7a93c5d0)
+
 <br>
 Example
 ```
